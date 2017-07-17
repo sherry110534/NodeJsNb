@@ -1,0 +1,15 @@
+{
+  "name": "n003",
+  "version": "1.0.0",
+  "description": "this is a npm init test",
+  "main": "server.js",
+  "dependencies": {
+      "express": "latest"
+	},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Steven Lai",
+  "license": "ISC"
+}
